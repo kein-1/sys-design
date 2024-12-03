@@ -2,7 +2,7 @@
   <img src="diagrams/system-design-github-logo.png" width="350" height="200">
 </p>
 
-This repository contains free resources to learn System Design concepts and prepare for interviews.
+System Desgin Resources, forked and then added my own content.
 
 Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE System Design Interview Handbook** in your inbox.
 
